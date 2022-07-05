@@ -1,0 +1,18 @@
+
+# Unit test reports
+TEST*.xml
+
+# Applications
+*.app
+*.exe
+*.war
+
+
+.git/
+.vs/
+bin/
+obj/
+packages/
+
+# locking documents (libreoffice)
+.~*#
